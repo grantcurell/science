@@ -8,6 +8,8 @@
 
 [Original Article](https://creativedestructionmedia.com/news/asia/2020/02/16/report-chinese-scientist-who-worked-at-unc-finds-killer-coronavirus-probably-originated-from-a-laboratory-in-wuhan/?fbclid=IwAR0S4UjubgvM2zwwQ9sATbmXOa1aUUPim68ndhsvwGlUYLTFE1oaVdw1xoI)
 
+[Link to study](https://web.archive.org/web/20200214144447/https://www.researchgate.net/publication/339070128_The_possible_origins_of_2019-nCoV_coronavirus)
+
 ## The Summarized Version
 
 1. Coronavirus uses a little latch-like protein to attach itself to the cell wall of a healthy cell
